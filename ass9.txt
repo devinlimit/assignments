@@ -1,0 +1,11 @@
+### Ass-9
+### password GitHub repo
+
+password = "Galatasaray1905*"
+
+name = input("Enter your name: ").title().strip()
+
+if name == "Devin":
+    print("Hello", name, "\b! The password is :", password)
+else:
+    print("Hello", name, "\b! See you later.")
